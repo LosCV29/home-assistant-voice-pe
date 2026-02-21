@@ -1717,6 +1717,8 @@ micro_wake_word:
       id: hey_jarvis
     - model: hey_mycroft
       id: hey_mycroft
+    - model: https://raw.githubusercontent.com/LosCV29/Wake-Words/refs/heads/main/hey_jefree.json
+      id: hey_jefree
     - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
       id: stop
       internal: true
